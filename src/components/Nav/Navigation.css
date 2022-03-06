@@ -1,0 +1,19 @@
+.navigation {
+  background-color: #ffeed9;
+  display: flex;
+  gap: 2rem;
+}
+
+li {
+  list-style: none;
+}
+
+li a {
+  text-decoration: none;
+  color: #594f43;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 5px 0;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 30px;
+}
